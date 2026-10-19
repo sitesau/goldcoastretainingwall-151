@@ -1,0 +1,22 @@
+{
+  "wheel_id": 457,
+  "structure": "umbrella",
+  "slug": "goldcoastretainingwall-151",
+  "project": "retaining-walls-gold-coast-58a6cba1749b7a72b40980814e45c6dda1eb",
+  "parent_t1_ref": "goldcoastretainingwall-006",
+  "node_role": "buffer",
+  "money_target": "goldcoastretainingwall.au",
+  "primary_kw": "retaining walls gold coast",
+  "intended_url": "https://aumedia.neocities.org/retaining-walls-gold-coast-58a6cba1749b7a72b40980814e45c6dda1eb/",
+  "tier": "T2",
+  "writeback_nonce": "7692d7d98e62667c",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/retaining-walls-gold-coast-goldcoastretainingwall-006/",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
